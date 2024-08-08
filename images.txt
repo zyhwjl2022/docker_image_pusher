@@ -8,4 +8,4 @@
 #ghcr.io/jeessy2/ddns-go
 
 #nacos/nacos-server
-ghcr.io/immich-app/immich-machine-learning:release-openvino
+ghcr.io/immich-app/immich-machine-learning:release
