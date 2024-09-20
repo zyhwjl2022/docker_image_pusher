@@ -8,4 +8,5 @@
 #ghcr.io/jeessy2/ddns-go
 
 #nacos/nacos-server
-snowdreamtech/frps:0.60.0
+#snowdreamtech/frps:0.60.0
+whyour/qinglong
