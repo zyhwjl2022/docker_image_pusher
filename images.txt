@@ -9,4 +9,5 @@
 
 #nacos/nacos-server
 #snowdreamtech/frps:0.60.0
-whyour/qinglong
+#whyour/qinglong
+ghcr.io/owo-network/deeplx:latest
