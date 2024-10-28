@@ -10,4 +10,7 @@
 #nacos/nacos-server
 #snowdreamtech/frps:0.60.0
 #whyour/qinglong
-ghcr.io/owo-network/deeplx:latest
+#ghcr.io/owo-network/deeplx:latest
+cskefu/activemq:5.14.3
+cskefu/contact-center:develop
+mysql:5.7
