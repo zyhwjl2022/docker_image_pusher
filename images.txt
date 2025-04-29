@@ -14,4 +14,5 @@
 #cskefu/activemq:5.14.3
 #cskefu/contact-center:develop
 #mysql:5.7
-redis
+#redis
+oracle:19c
