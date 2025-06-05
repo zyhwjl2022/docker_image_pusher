@@ -16,4 +16,5 @@
 #mysql:5.7
 #redis
 #oracle:19c
-xhofe/alist
+#xhofe/alist
+python
