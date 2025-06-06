@@ -17,4 +17,5 @@
 #redis
 #oracle:19c
 #xhofe/alist
-python
+#python
+python:3.9.23-alpine
